@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\github-repositories\nti-programmering-1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
