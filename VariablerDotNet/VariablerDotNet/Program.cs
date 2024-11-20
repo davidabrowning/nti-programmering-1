@@ -22,6 +22,11 @@ namespace VariablerDotNet
     {
         static void Main(string[] args)
         {
+            // 1. Initialize three variables: first name, last name, age
+            string firstName = "David";
+            string lastName = "Browning";
+            int age = 38;
+            
         }
     }
 }
