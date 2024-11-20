@@ -16,6 +16,20 @@ namespace Exercise0304
     {
         static void Main(string[] args)
         {
+            // Variables
+            string name1;
+            string name2;
+
+            // Ask user for names
+            Console.Write("Please enter person 1's name: ");
+            name1 = Console.ReadLine();
+            Console.Write("Please enter person 2's name: ");
+            name2 = Console.ReadLine();
+
+            // Print the story
+            Console.Write(name1 + " and " + name2 + " met at the grocery "
+                + "store. " + name2 + " asked " + name1 + " if they lived in "
+                + "the area.");
         }
     }
 }
