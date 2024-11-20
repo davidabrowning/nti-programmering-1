@@ -26,7 +26,8 @@ namespace VariablerDotNet
             string firstName = "David";
             string lastName = "Browning";
             int age = 38;
-            
+
+            Console.WriteLine(firstName + " " + lastName + " is " + age + " years old.");
         }
     }
 }

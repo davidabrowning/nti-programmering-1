@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\bin\Debug\VariablerDotNet.exe.config
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\bin\Debug\VariablerDotNet.exe
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\bin\Debug\VariablerDotNet.pdb
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\obj\Debug\VariablerDotNet.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\obj\Debug\VariablerDotNet.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\obj\Debug\VariablerDotNet.exe
+C:\github-repositories\nti-programmering-1\VariablerDotNet\VariablerDotNet\obj\Debug\VariablerDotNet.pdb
