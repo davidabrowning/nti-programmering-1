@@ -19,12 +19,21 @@ namespace Exercise0303
         static void Main(string[] args)
         {
             // Variables
+            string userInput;
+            double decimalNumber;
+            int roundedNumber;
 
             // Ask user for decimal
+            Console.Write("Ange ett decimaltal: ");
+            userInput = Console.ReadLine();
+            decimalNumber = Convert.ToDouble(userInput);
 
             // Round decimal to nearest integer
+            roundedNumber = (int) Math.Round(decimalNumber);
 
             // Display results
+            Console.Write("Decimaltalet " + decimalNumber +
+                " avrundas till heltalet " + roundedNumber);
         }
     }
 }
