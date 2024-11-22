@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,12 +11,16 @@ using System.Threading.Tasks;
  * svarar "j" skriver programmet "Vi går på picknick!" Annars händer ingenting.
  * 
  * PSUEDOKOD
- * Ställ frågan "Är det fint väder?"
- * OM svaret är j SÅ
- *  Skriv "Vi går på picknick!"
- * ANNARS
- *  Skriva "Vi stannar inne och läser en bok."
- * SLUT OM
+ * Ställa frågan "Är det fint väder?"
+ * Ta emot svaret
+ * SWITCH svaret
+ *  j eller J
+ *      Skriva "Vi går på picknick!"
+ *  n eller N
+ *      Skriva "Vi stannar inne och läser en bok."
+ *  default
+ *      Skriva "Jag förstår inte."
+ * SLUT SWITCH
  */
 
 namespace Exercise0401
@@ -26,33 +31,44 @@ namespace Exercise0401
         const string frågan = "Är det fint väder?";
         const string jaFörslag = "Vi går på picknick!";
         const string nejFörslag = "Vi stannar inne och läser en bok.";
+        const string ogiltigtSvarMeddelande = "Jag förstår inte.";
         const string jaSvar = "j";
+        const string nejSvar = "n";
 
         static void Main(string[] args)
         {
             // Initiera variabler
             string användarSvar = "";
 
-            // Ställ frågan
+            // Ställa frågan
             Console.WriteLine(frågan);
 
             // Ta emot svaret
             användarSvar = Console.ReadLine();
             användarSvar = användarSvar.ToLower();
 
-            // OM svaret är j SÅ
-            //  Skriva ut förslaget
-            // SLUT OM
-            if (användarSvar == jaSvar)
+            /*
+            * SWITCH svaret
+            *   j eller J
+            *       Skriva "Vi går på picknick!"
+            *   n eller N
+            *       Skriva "Vi stannar inne och läser en bok."
+            *   default
+            *       Skriva "Jag förstår inte."
+            * SLUT SWITCH
+            */
+            switch (användarSvar)
             {
-                Console.WriteLine(jaFörslag);
+                case (jaSvar):
+                    Console.WriteLine(jaFörslag);
+                    break;
+                case (nejSvar):
+                    Console.WriteLine(nejFörslag);
+                    break;
+                default:
+                    Console.WriteLine(ogiltigtSvarMeddelande);
+                    break;
             }
-            else
-            {
-                Console.WriteLine(nejFörslag);
-            }
-
-
         }
     }
 }
