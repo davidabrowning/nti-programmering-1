@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\bin\Debug\Exercise0504.exe.config
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\bin\Debug\Exercise0504.exe
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\bin\Debug\Exercise0504.pdb
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\obj\Debug\Exercise0504.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\obj\Debug\Exercise0504.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\obj\Debug\Exercise0504.exe
+C:\github-repositories\nti-programmering-1\Exercise0504\Exercise0504\obj\Debug\Exercise0504.pdb

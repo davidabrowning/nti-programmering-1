@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\bin\Debug\ÖvningUtskriftOchInmatning.exe.config
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\bin\Debug\ÖvningUtskriftOchInmatning.exe
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\bin\Debug\ÖvningUtskriftOchInmatning.pdb
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\obj\Debug\ÖvningUtskriftOchInmatning.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\obj\Debug\ÖvningUtskriftOchInmatning.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\obj\Debug\ÖvningUtskriftOchInmatning.exe
+C:\github-repositories\nti-programmering-1\ÖvningUtskriftOchInmatning\ÖvningUtskriftOchInmatning\obj\Debug\ÖvningUtskriftOchInmatning.pdb
