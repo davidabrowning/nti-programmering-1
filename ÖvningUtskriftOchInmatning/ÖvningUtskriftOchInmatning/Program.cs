@@ -23,12 +23,12 @@ namespace ÖvningUtskriftOchInmatning
     {
         static void Main(string[] args)
         {
-            // Variabler
-            string förnamn;             // Användarens förnamn
-            string efternamn;           // Användarens efternamn
-            string användarInmatning;   // Innehåller senaste inmatning när användaren matar in en string som konverteras till siffra
-            int ålder;                  // Användarens ålder räknad i år
-            int dagar;                  // Användarens ålder räknad i dagar
+            // Initialisera variabler
+            string förnamn = "";            // Användarens förnamn
+            string efternamn = "";          // Användarens efternamn
+            string användarInmatning = "";  // Innehåller senaste inmatning när användaren matar in en string som konverteras till siffra
+            int ålder = 0;                  // Användarens ålder räknad i år
+            int dagar = 0;                  // Användarens ålder räknad i dagar
 
             // 1. Läsa in användarens för och efternamn och spara detta i variabler
             Console.Write("Var god och skriv ditt förnamn: ");
