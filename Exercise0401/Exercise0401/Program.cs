@@ -13,6 +13,8 @@ using System.Threading.Tasks;
  * Ställ frågan "Är det fint väder?"
  * OM svaret är j SÅ
  *  Skriv "Vi går på picknick!"
+ * ANNARS
+ *  Skriva "Vi stannar inne och läser en bok."
  * SLUT OM
  */
 
@@ -22,7 +24,8 @@ namespace Exercise0401
     {
         // Initiera konstanter
         const string frågan = "Är det fint väder?";
-        const string förslag = "Vi går på picknick!";
+        const string jaFörslag = "Vi går på picknick!";
+        const string nejFörslag = "Vi stannar inne och läser en bok.";
         const string jaSvar = "j";
 
         static void Main(string[] args)
@@ -33,14 +36,22 @@ namespace Exercise0401
             // Ställ frågan
             Console.WriteLine(frågan);
 
+            // Ta emot svaret
+            användarSvar = Console.ReadLine();
+            användarSvar = användarSvar.ToLower();
+
             // OM svaret är j SÅ
             //  Skriva ut förslaget
             // SLUT OM
-            användarSvar = Console.ReadLine();
             if (användarSvar == jaSvar)
             {
-                Console.WriteLine(förslag);
+                Console.WriteLine(jaFörslag);
             }
+            else
+            {
+                Console.WriteLine(nejFörslag);
+            }
+
 
         }
     }
