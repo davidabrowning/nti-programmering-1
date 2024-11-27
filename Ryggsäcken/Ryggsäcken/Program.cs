@@ -84,6 +84,7 @@ namespace Ryggsäcken
                             innehåll += ", ";
                         }
                         innehåll += föremål;
+                        Console.WriteLine(föremål + " tillagt.");
                         break;
 
                     // 2. Skriv ut innehållet
