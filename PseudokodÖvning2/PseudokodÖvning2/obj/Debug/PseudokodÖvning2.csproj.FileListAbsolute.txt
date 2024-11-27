@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\bin\Debug\PseudokodÖvning2.exe.config
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\bin\Debug\PseudokodÖvning2.exe
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\bin\Debug\PseudokodÖvning2.pdb
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\obj\Debug\PseudokodÖvning2.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\obj\Debug\PseudokodÖvning2.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\obj\Debug\PseudokodÖvning2.exe
+C:\github-repositories\nti-programmering-1\PseudokodÖvning2\PseudokodÖvning2\obj\Debug\PseudokodÖvning2.pdb
