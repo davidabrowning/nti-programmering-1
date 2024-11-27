@@ -29,8 +29,8 @@ using System.Threading.Tasks;
  *  SLUT SWITCH
  * SLUT SÅ LÄNGE
  * 
- * Author: David Browning
- * Email: david.a.browning@gmail.com
+ * Författare: David Browning
+ * Mejl: david.a.browning@gmail.com
 */
 namespace Ryggsäcken
 {
