@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\bin\Debug\AktivitetsdiagramÖvning1.exe.config
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\bin\Debug\AktivitetsdiagramÖvning1.exe
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\bin\Debug\AktivitetsdiagramÖvning1.pdb
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\obj\Debug\AktivitetsdiagramÖvning1.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\obj\Debug\AktivitetsdiagramÖvning1.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\obj\Debug\AktivitetsdiagramÖvning1.exe
+C:\github-repositories\nti-programmering-1\AktivitetsdiagramÖvning1\AktivitetsdiagramÖvning1\obj\Debug\AktivitetsdiagramÖvning1.pdb
