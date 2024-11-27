@@ -14,8 +14,9 @@ using System.Threading.Tasks;
  *      Fall 1:
  *          Lägg till ett föremål
  *              Läs in nytt föremål från användaren
- *              Om nytt föremål är tomt, break ur switch
- *              Om ryggsäcken redan innehåller åtminstone ett föremål, lägg till ett kommatecken
+ *              Om nytt föremål är tomt, break ur switch-sats
+ *              Om ryggsäcken redan innehåller åtminstone ett föremål,
+ *                  lägg till ett kommatecken
  *              Lägg till föremål i ryggsäck
  *      Fall 2:
  *          Skriv ut innehållet
@@ -38,14 +39,14 @@ namespace Ryggsäcken
         static void Main(string[] args)
         {
             // Deklarera variabler
-            bool avslutaProgrammet = false;
+            bool körProgrammet = true;
             string innehåll = "";
 
             // Skriva ut en hälsning
             Console.WriteLine("Välkommen till ryggsäcken!");
 
             // Så länge användaren inte avslutar programmet
-            while (avslutaProgrammet == false)
+            while (körProgrammet)
             {
                 // Visa menyval
                 Console.WriteLine();
@@ -63,8 +64,9 @@ namespace Ryggsäcken
                 {
                     // 1. Lägg till ett föremål
                     // Läs in nytt föremål från användaren
-                    // Om nytt föremål är tomt, break ur switch
-                    // Om ryggsäcken redan innehåller åtminstone ett föremål, lägg till ett kommatecken
+                    // Om nytt föremål är tomt, break ur switch-sats
+                    // Om ryggsäcken redan innehåller åtminstone ett föremål,
+                    //      lägg till ett kommatecken
                     // Lägg till föremål i ryggsäck
                     case "1":
                         Console.Write("Föremål att lägga till: ");
@@ -72,7 +74,9 @@ namespace Ryggsäcken
                         föremål = föremål.Trim();
                         if (föremål.Length == 0)
                         {
-                            Console.WriteLine("Tomt föremål. Visar upp menyn igen.");
+                            Console.WriteLine(
+                                "Tomt föremål.Visar upp menyn igen."
+                            );
                             break;
                         }
                         if (innehåll.Length > 0)
@@ -97,17 +101,22 @@ namespace Ryggsäcken
                     // 3. Rensa innehållet
                     case "3":
                         innehåll = "";
+                        Console.WriteLine("Innehåll rensat!");
                         break;
 
                     // 4. Avsluta programmet
                     case "4":
-                        Console.WriteLine("Avslutar programmet. Tack och hej då!");
-                        avslutaProgrammet = true;
+                        Console.WriteLine(
+                            "Avslutar programmet. Tack och hej då!"
+                        );
+                        körProgrammet = false;
                         break;
 
                     // Övrigt
                     default:
-                        Console.WriteLine("Oväntat indata. Visar upp menyn igen.");
+                        Console.WriteLine(
+                            "Oväntat indata. Visar upp menyn igen."
+                        );
                         break;
                 }
             }
