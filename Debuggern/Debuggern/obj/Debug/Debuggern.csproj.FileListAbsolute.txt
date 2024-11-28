@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\bin\Debug\Debuggern.exe.config
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\bin\Debug\Debuggern.exe
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\bin\Debug\Debuggern.pdb
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\obj\Debug\Debuggern.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\obj\Debug\Debuggern.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\obj\Debug\Debuggern.exe
+C:\github-repositories\nti-programmering-1\Debuggern\Debuggern\obj\Debug\Debuggern.pdb
