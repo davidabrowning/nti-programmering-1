@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\github-repositories\nti-programmering-1\TryParse\TryParse\obj\Debug\TryParse.pdb
