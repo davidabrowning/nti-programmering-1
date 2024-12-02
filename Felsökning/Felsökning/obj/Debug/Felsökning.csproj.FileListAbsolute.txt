@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\obj\Debug\Felsökning.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\obj\Debug\Felsökning.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\bin\Debug\Felsökning.exe.config
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\bin\Debug\Felsökning.exe
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\bin\Debug\Felsökning.pdb
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\obj\Debug\Felsökning.exe
+C:\github-repositories\nti-programmering-1\Felsökning\Felsökning\obj\Debug\Felsökning.pdb
