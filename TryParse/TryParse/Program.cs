@@ -13,7 +13,7 @@ namespace TryParse
             while (true)
             {
                 Console.WriteLine("Enter an integer:");
-                bool success = int.TryParse(Console.ReadLine(), out int number);
+                bool success = Int32.TryParse(Console.ReadLine(), out int number);
                 if (success)
                 {
                     Console.WriteLine($"Converted to {number}");
