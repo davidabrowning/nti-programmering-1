@@ -1,0 +1,14 @@
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\bin\Debug\Övning1101.exe.config
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\bin\Debug\Övning1101.exe
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\bin\Debug\Övning1101.pdb
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\obj\Debug\Övning1101.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\obj\Debug\Övning1101.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\obj\Debug\Övning1101.exe
+C:\github-repositories\nti-programmering-1\Övning1101\Övning1101\obj\Debug\Övning1101.pdb
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\bin\Debug\Övning1101.exe.config
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\bin\Debug\Övning1101.exe
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\bin\Debug\Övning1101.pdb
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\obj\Debug\Övning1101.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\obj\Debug\Övning1101.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\obj\Debug\Övning1101.exe
+C:\github-repositories\nti-programmering-1\Exercise1101\Övning1101\obj\Debug\Övning1101.pdb
