@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\bin\Debug\Ryggsäcken.exe.config
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\bin\Debug\Ryggsäcken.exe
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\bin\Debug\Ryggsäcken.pdb
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\obj\Debug\Ryggsäcken.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\obj\Debug\Ryggsäcken.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\obj\Debug\Ryggsäcken.exe
+C:\github-repositories\nti-programmering-1\Ryggsäcken\Ryggsäcken\obj\Debug\Ryggsäcken.pdb

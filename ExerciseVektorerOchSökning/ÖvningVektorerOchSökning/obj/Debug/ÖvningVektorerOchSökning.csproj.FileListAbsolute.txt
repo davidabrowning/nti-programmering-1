@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\bin\Debug\ÖvningVektorerOchSökning.exe.config
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\bin\Debug\ÖvningVektorerOchSökning.exe
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\bin\Debug\ÖvningVektorerOchSökning.pdb
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\obj\Debug\ÖvningVektorerOchSökning.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\obj\Debug\ÖvningVektorerOchSökning.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\obj\Debug\ÖvningVektorerOchSökning.exe
+C:\github-repositories\nti-programmering-1\ÖvningVektorerOchSökning\ÖvningVektorerOchSökning\obj\Debug\ÖvningVektorerOchSökning.pdb
