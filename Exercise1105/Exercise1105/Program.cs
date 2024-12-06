@@ -17,13 +17,15 @@ namespace Exercise1105
     internal class Program
     {
 
-        private const double defaultVAT = 0.25;
+        private const double defaultVAT = 0.25; // default momsvärde
 
         // ============================== METOD ===============================
         // Main. Start på programmet.
         // ====================================================================
         static void Main(string[] args)
         {
+
+            // Skriv ut några exempel på momsräkningar
             printReceipt(100.0, 0.30, addVAT(100.0, 0.30));
             printReceipt(100.0, defaultVAT, addVAT(100.0));
             printReceipt(1000, 0.10, addVAT(1000, 0.10));
