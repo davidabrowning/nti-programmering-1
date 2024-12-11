@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\bin\Debug\ExerciseListorOchMetoder.exe.config
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\bin\Debug\ExerciseListorOchMetoder.exe
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\bin\Debug\ExerciseListorOchMetoder.pdb
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\obj\Debug\ExerciseListorOchMetoder.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\obj\Debug\ExerciseListorOchMetoder.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\obj\Debug\ExerciseListorOchMetoder.exe
+C:\github-repositories\nti-programmering-1\ExerciseListorOchMetoder\ExerciseListorOchMetoder\obj\Debug\ExerciseListorOchMetoder.pdb
