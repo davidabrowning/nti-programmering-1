@@ -7,7 +7,8 @@ using System.Threading;
 using System.Threading.Tasks;
 
 // ================================ NAMESPACE =================================
-// Presenterar användaren med en meny där användaren har möjlighet att:
+// ExerciseListorOchMetoder. Presenterar användaren med en meny där användaren
+// har möjlighet att:
 //      1. Rulla valig tärning
 //      2. Rulla valfri tärning (valfritt antal sidor)
 //      3. Granska resultat
