@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+// författare David Browning (david.a.browning@gmail.com)
 namespace ExerciseListorOchMetoder
 {
     class Program
@@ -19,7 +20,16 @@ namespace ExerciseListorOchMetoder
             // tärning när vi kallar på den
 
             // metoden ska sedan returnera det rullade värdet
-            return 1;
+
+            int min = 1; // minvärde på tärningen
+            int max = 6; // maxvärde på tärningen
+            int tal = 0; // håller resultat när tärningen rullas
+            
+            // räkna ut ett slumpvärde mellan min och max
+            tal = slumpObjekt.Next(min, max + 1);
+
+            // returnera resulterande värde
+            return tal;
         }
 
         static void Main()
@@ -67,9 +77,19 @@ namespace ExerciseListorOchMetoder
                             Console.WriteLine("\n\tRullade tärningar: ");
                             foreach (int tärning in tärningar)
                             {
+                                // skriv ut tärning
                                 Console.WriteLine("\t" + tärning);
+
+                                // lägg tärning till summa
+                                sum += tärning;
                             }
-                            Console.WriteLine("\n\tMedelvärdet på alla tärningsrull: " + sum); // Här ska medelvärdet skrivas ut
+
+                            // räkna ut medelvärde
+                            // obs!  jag använder inte decimaler, då tärningar ändå bara har hela sidor
+                            int medelvärde = sum / tärningar.Count;
+
+                            // skriv ut medelvärde
+                            Console.WriteLine("\n\tMedelvärdet på alla tärningsrull: " + medelvärde); // Här ska medelvärdet skrivas ut
                         }
 
                         break;
