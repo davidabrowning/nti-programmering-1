@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\bin\Debug\Exercise1201.exe.config
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\bin\Debug\Exercise1201.exe
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\bin\Debug\Exercise1201.pdb
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\obj\Debug\Exercise1201.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\obj\Debug\Exercise1201.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\obj\Debug\Exercise1201.exe
+C:\github-repositories\nti-programmering-1\Exercise1201\Exercise1201\obj\Debug\Exercise1201.pdb
