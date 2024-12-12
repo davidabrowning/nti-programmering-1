@@ -1,0 +1,7 @@
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\obj\Debug\Exercise1302.csproj.AssemblyReference.cache
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\obj\Debug\Exercise1302.csproj.CoreCompileInputs.cache
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\bin\Debug\Exercise1302.exe.config
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\bin\Debug\Exercise1302.exe
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\bin\Debug\Exercise1302.pdb
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\obj\Debug\Exercise1302.exe
+C:\github-repositories\nti-programmering-1\Exercise1302\Exercise1302\obj\Debug\Exercise1302.pdb
